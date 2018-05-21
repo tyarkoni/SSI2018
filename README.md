@@ -6,7 +6,7 @@ This repository contains Jupyter notebooks, code samples, and all other material
 Inactive links will be added the evening before the following day's class at the latest.
 
 * [Test notebook](https://github.com/tyarkoni/SSI2018/blob/master/notebooks/test.ipynb)
-* Day 1: Data Science in Python
+* [Day 1: Data Science in Python](https://github.com/tyarkoni/SSI2018/blob/master/notebooks/Day%201%20-%20Data%20science%20in%20Python.ipynb)
 * Day 2: Data Wrangling
 * Day 3: Visualizing and Analyzing Data
 * Day 4: Predictive Modeling
