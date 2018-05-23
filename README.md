@@ -8,7 +8,7 @@ Inactive links will be added the evening before the following day's class at the
 * [Test notebook](https://github.com/tyarkoni/SSI2018/blob/master/notebooks/test.ipynb)
 * [Day 1: Data Science in Python](https://github.com/tyarkoni/SSI2018/blob/master/notebooks/Day%201%20-%20Data%20science%20in%20Python.ipynb)
 * [Day 2: Data Wrangling](https://github.com/tyarkoni/SSI2018/blob/master/notebooks/Day%202%20-%20Data%20wrangling.ipynb)
-* Day 3: Visualizing and Analyzing Data
+* [Day 3: Visualizing and Analyzing Data](https://github.com/tyarkoni/SSI2018/blob/master/notebooks/Day%203%20-%20Exploring%20and%20analyzing%20data%20in%20Python.ipynb)
 * Day 4: Predictive Modeling
 
 ## Setup
